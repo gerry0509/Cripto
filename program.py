@@ -7,7 +7,7 @@ for line in fileinput.input():
 		flotante=1	
 	lines.append(line)
 	suma=suma+float(line)
-if flotante=1:
+if flotante==1:
 	print(suma)
 else:
 	print(int(suma))
